@@ -1,4 +1,4 @@
-package ScaleFinder;
+package scalefinder;
 
 import java.util.HashMap;
 import java.util.InputMismatchException;
